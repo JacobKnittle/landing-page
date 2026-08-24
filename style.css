@@ -22,6 +22,7 @@ a {
     background-color: #1F2937;
     display: flex;
     justify-content: center;
+    padding-bottom: 150px;
 }
 
 .hero-section-content {
@@ -76,7 +77,19 @@ a {
     border-radius: 6px;
 }
 
-.placeholder {
+.hero-image {
    flex: 1 1 55%;
    height: 250px;
+}
+
+.information-section {
+    background-color: white;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+.information-section-content {
+    width: 1000px;
+    background-color: white;
 }
