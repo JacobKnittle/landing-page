@@ -28,7 +28,6 @@ a {
     display: flex;
     flex-direction: column;
     width: 1000px;
-    
 }
 
 .header {
@@ -44,4 +43,13 @@ a {
     gap: 24px;
     color: gray;
     font-size: 18px;
+}
+
+.hero-main-content {
+    display: flex;
+    gap: 32px;
+}
+
+.placeholder {
+   max-width: 55%;
 }
