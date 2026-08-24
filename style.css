@@ -50,6 +50,11 @@ a {
     gap: 32px;
 }
 
+.hero-main-text-content {
+    flex: 1 1 45%;
+}
+
 .placeholder {
-   max-width: 55%;
+   flex: 1 1 55%;
+   height: 250px;
 }
