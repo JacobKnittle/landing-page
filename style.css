@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.hero-section {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+}
+
+.hero-section-content {
+    max-width: 1000px;
+    background-color: red;
+}
