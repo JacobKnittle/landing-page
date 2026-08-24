@@ -52,6 +52,28 @@ a {
 
 .hero-main-text-content {
     flex: 1 1 45%;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.hero-main-text-content h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900
+}
+
+.hero-main-text-content p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.hero-main-text-content button {
+    background-color: #3882F6;
+    padding: 8px 32px;
+    align-self: flex-start;
+    border: none;
+    border-radius: 6px;
 }
 
 .placeholder {
