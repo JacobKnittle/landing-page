@@ -98,7 +98,11 @@ a {
     width: 1000px;
 }
 
-.information-section-content img {
+.information-images {
+    display: flex;
+}
+
+.information-image-container img {
     width: 200px;
     height: 200px;
 }
