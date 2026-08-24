@@ -39,6 +39,10 @@ a {
     margin-bottom: 150px;
 }
 
+.logo {
+    color: white;
+}
+
 .header-links {
     display: flex;
     gap: 24px;
@@ -71,6 +75,7 @@ a {
 
 .hero-main-text-content button {
     background-color: #3882F6;
+    color: white;
     padding: 8px 32px;
     align-self: flex-start;
     border: none;
@@ -91,5 +96,9 @@ a {
 
 .information-section-content {
     width: 1000px;
-    background-color: white;
+}
+
+.information-section-content img {
+    width: 200px;
+    height: 200px;
 }
