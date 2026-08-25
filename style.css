@@ -131,6 +131,8 @@ a {
 
 .quote-section-content {
     width: 1000px;
+    display: flex;
+    flex-direction: column;
 }
 
 .quote-section-content p {
@@ -138,4 +140,10 @@ a {
     color: #1F2937;
     font-weight: 300;
     font-style: italic;
+}
+
+.quote-section-content span {
+    align-self: flex-end;
+    padding-top: 20px;
+    font-weight: bold;
 }
