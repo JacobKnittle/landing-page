@@ -132,3 +132,10 @@ a {
 .quote-section-content {
     width: 1000px;
 }
+
+.quote-section-content p {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+}
