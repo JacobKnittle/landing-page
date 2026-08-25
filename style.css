@@ -148,3 +148,13 @@ a {
     padding-top: 20px;
     font-weight: bold;
 }
+
+.call-to-action-section {
+    width: 100vw;
+    display: flex;
+    justify-content: center;    
+}
+
+.call-to-action-box {
+    
+}
