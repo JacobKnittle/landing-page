@@ -101,6 +101,10 @@ a {
     align-items: center;
 }
 
+.information-section-content h2 {
+    padding: 32px 0;
+}
+
 .information-images {
     display: flex;
 }
@@ -108,4 +112,6 @@ a {
 .information-image-container img {
     width: 200px;
     height: 200px;
+    border-radius: 8px;
+    border: 4px solid #3882F6;
 }
