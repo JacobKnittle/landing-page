@@ -156,5 +156,13 @@ a {
 }
 
 .call-to-action-box {
-    
+    width: 1000px;
+    margin-top: 100px;
+    background-color: #3882F6;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 40px 80px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
 }
